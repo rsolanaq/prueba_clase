@@ -1,3 +1,3 @@
-print {"Hola mundo"}
+print ("Hola mundo")
 
-orint {"eyou"}
+print ("eyou")
